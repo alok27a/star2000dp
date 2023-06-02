@@ -1,0 +1,138 @@
+{
+    "version": "1.0",
+    "truncation": null,
+    "padding": null,
+    "added_tokens": [
+        {
+            "id": 0,
+            "content": "dst:",
+            "single_word": false,
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "special": true
+        },
+        {
+            "id": 1,
+            "content": "hist:",
+            "single_word": false,
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "special": true
+        },
+        {
+            "id": 2,
+            "content": "enumber:",
+            "single_word": false,
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "special": true
+        },
+        {
+            "id": 3,
+            "content": "etime:",
+            "single_word": false,
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "special": true
+        },
+        {
+            "id": 4,
+            "content": "rnumber:",
+            "single_word": false,
+            "lstrip": false,
+            "rstrip": false,
+            "normalized": false,
+            "special": true
+        }
+    ],
+    "normalizer": null,
+    "pre_tokenizer": null,
+    "post_processor": null,
+    "decoder": null,
+    "model": {
+        "type": "Unigram",
+        "unk_id": null,
+        "vocab": [
+            [
+                "dst:",
+                0
+            ],
+            [
+                "hist:",
+                0
+            ],
+            [
+                "enumber:",
+                0
+            ],
+            [
+                "etime:",
+                0
+            ],
+            [
+                "rnumber:",
+                0
+            ],
+            [
+                "nlb:",
+                0
+            ],
+            [
+                "0",
+                0
+            ],
+            [
+                "1",
+                0
+            ],
+            [
+                "2",
+                0
+            ],
+            [
+                "3",
+                0
+            ],
+            [
+                "4",
+                0
+            ],
+            [
+                "5",
+                0
+            ],
+            [
+                "6",
+                0
+            ],
+            [
+                "7",
+                0
+            ],
+            [
+                "8",
+                0
+            ],
+            [
+                "9",
+                0
+            ],
+            [
+                ",",
+                0
+            ],
+            [
+                ".",
+                0
+            ],
+            [
+                "$",
+                0
+            ]
+        ]
+    }
+}
